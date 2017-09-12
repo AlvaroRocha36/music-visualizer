@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Generator: Assembly 1.0 - http://assemblyapp.co -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+	<g id="widget" transform="matrix(1,0,0,1,150,150)">
+		<path d="M-115.28,-2.67209 C-114.486,-62.3386 -61.6259,-115.313 -2.64,-115.313" fill="#000000" fill-opacity="0" stroke-width="5.36249" stroke="#00c2ff" stroke-linecap="square" stroke-linejoin="miter" />
+		<path d="M115.28,-2.67827 C114.486,-62.3448 61.6259,-115.319 2.64,-115.319" fill="#000000" fill-opacity="0" stroke-width="5.36249" stroke="#b8f31a" stroke-linecap="square" stroke-linejoin="miter" />
+		<path d="M2.6338,115.283 C62.3003,114.489 115.274,61.6288 115.274,2.64283" fill="#000000" fill-opacity="0" stroke-width="5.36249" stroke="#03f400" stroke-linecap="square" stroke-linejoin="miter" />
+		<path d="M-115.28,2.67772 L-115.281,115.318" fill="#000000" fill-opacity="0" stroke-width="5.36249" stroke="#e33d2c" stroke-linecap="square" stroke-linejoin="miter" />
+	</g>
+</svg>
